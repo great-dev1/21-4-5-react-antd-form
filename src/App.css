@@ -1,0 +1,31 @@
+.container {
+  max-width: 1080px;
+  margin: 100px auto;
+  padding: 30px 45px 30px 35px;
+  border: 2px solid lightblue;
+  /* background-color: grey; */
+}
+
+.title {
+  margin: 0 0 20px;
+  line-height: 1;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+.plus-icon {
+  font-size: 24px;
+}
+
+.plus-text {
+  margin-left: 4px;
+  line-height: 16px;
+}
+
+.italic-text {
+  margin-top: 14px;
+  font-style: italic;
+}
